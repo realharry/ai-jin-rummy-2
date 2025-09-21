@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Jin Rummy",
+  "description": "A two-player card game, Jin Rummy, where a human player competes against an AI bot powered by the Gemini API. The game is rendered using Pixi.js for a smooth, mobile-friendly experience."
+}
